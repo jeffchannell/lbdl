@@ -1,6 +1,8 @@
 # lbdl
 
-A headless torrent client written in Go.
+A simple command line torrent client written in Go.
+
+![lbdl torrent client](/screenshot.png?raw=true "lbdl torrent client")
 
 ## The Basics
 
